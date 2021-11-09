@@ -1,0 +1,8 @@
+{
+  "conditions": [
+    "guiretextures:crosshair_style.\uA848 Circle"
+  ],
+  "fallbacks": [
+    "assets/minecraft/textures/gui/crosshairs/circle_big.png"
+  ]
+}

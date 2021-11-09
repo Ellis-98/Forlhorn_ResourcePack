@@ -1,0 +1,8 @@
+{
+  "conditions": [
+    "guiretextures:crosshair_style.\uA852 Pointer"
+  ],
+  "fallbacks": [
+    "assets/minecraft/textures/gui/crosshairs/launcher.png"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "item/comb-pute/bee_nest_template",
+	"textures": {
+		"bees": "comb-pute/bees_1",
+		"honey": "comb-pute/honey_3"
+	}
+}

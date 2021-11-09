@@ -1,0 +1,8 @@
+{
+  "conditions": [
+    "guiretextures:crosshair_style.\uA845 Heart"
+  ],
+  "fallbacks": [
+    "assets/minecraft/textures/gui/crosshairs/x.png"
+  ]
+}

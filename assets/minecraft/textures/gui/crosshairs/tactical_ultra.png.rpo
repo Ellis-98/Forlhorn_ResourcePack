@@ -1,0 +1,8 @@
+{
+  "conditions": [
+    "guiretextures:crosshair_style.\uA844 Tactical Ultra"
+  ],
+  "fallbacks": [
+    "assets/minecraft/textures/gui/crosshairs/heart.png"
+  ]
+}

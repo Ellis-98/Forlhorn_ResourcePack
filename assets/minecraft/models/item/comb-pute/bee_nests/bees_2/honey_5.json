@@ -1,0 +1,8 @@
+{
+	"parent": "item/comb-pute/bee_nest_template",
+	"textures": {
+		"front": "block/bee_nest_front_honey",
+		"bees": "comb-pute/bees_2",
+		"honey": "comb-pute/honey_5"
+	}
+}

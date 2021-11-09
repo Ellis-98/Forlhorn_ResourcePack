@@ -1,0 +1,8 @@
+{
+  "conditions": [
+    "guiretextures:crosshair_style.\uA841 Vanilla small"
+  ],
+  "fallbacks": [
+    "assets/minecraft/textures/gui/crosshairs/none.png"
+  ]
+}

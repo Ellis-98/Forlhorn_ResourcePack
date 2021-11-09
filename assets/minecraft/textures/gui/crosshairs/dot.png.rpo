@@ -1,0 +1,8 @@
+{
+  "conditions": [
+    "guiretextures:crosshair_style.\uA851 Dot"
+  ],
+  "fallbacks": [
+    "assets/minecraft/textures/gui/crosshairs/pointer.png"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "conditions": [
+    "guiretextures:crosshair_style.\uA850 Hand"
+  ],
+  "fallbacks": [
+    "assets/minecraft/textures/gui/crosshairs/dot.png"
+  ]
+}

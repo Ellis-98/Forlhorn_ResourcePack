@@ -1,0 +1,9 @@
+{
+	"parent": "item/comb-pute/count_template",
+	"textures": {
+		"top": "block/beehive_end",
+		"front": "block/beehive_front",
+		"side": "block/beehive_side",
+		"bottom": "block/beehive_end"
+	}
+}
