@@ -1,0 +1,2 @@
+# Forlhorn_ResourcePack
+ C'est un ressource pack pour le jeu Minecraft Java Édition. Les textures utilisées ont une définition de 16X16. C'est un pack au look coloré et cartoon, il a été conçu spécialement pour être utilisé par des petites configurations. Une grosse refonte des émissions de lumière et des effets en jeu a pu être effectuée grâce à Optifine. Le pack est orienté RPG donc des mécaniques ou modifications en jeu seront axées sur ce type de gameplay.
